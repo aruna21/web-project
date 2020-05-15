@@ -1,2 +1,2 @@
 # web-project
-first repository
+This app was built with html, css and js
